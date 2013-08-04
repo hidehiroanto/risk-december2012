@@ -1,0 +1,47 @@
+Siam 860 420 China India Indonesia
+China 810 325 Siam India Afghanistan Siberia Mongolia
+India 780 400 Siam China Afghanistan Middle_East
+Middle_East 675 410 Ukraine Afghanistan India Egypt
+Afghanistan 725 300 Middle_East India China Siberia Ural Ukraine
+Ural 725 200 Ukraine Afghanistan Siberia
+Mongolia 875 290 China Siberia Irkutsk Kamchatka Japan
+Irkutsk 870 215 Siberia Yakutsk Kamchatka Mongolia
+Siberia 810 175 Ural Afghanistan China Mongolia Irkutsk Yakutsk
+Yakutsk 890 75 Siberia Irkutsk Kamchatka
+Japan 990 300 Mongolia Kamchatka
+Kamchatka 980 75 Alaska Yakutsk Irkutsk Mongolia Japan
+
+Indonesia 935 465 Siam New_Guinea Western_Australia
+New_Guinea 1020 475 Indonesia Western_Australia Eastern_Australia 
+Western_Australia 865 620 Indonesia New_Guinea Eastern_Australia
+Eastern_Australia 1025 575 Western_Australia New_Guinea New_Zealand
+New_Zealand 1050 725 Eastern_Australia
+
+South_Africa 610 645 Madagascar East_Africa Congo
+Madagascar 720 610 South_Africa East_Africa
+East_Africa 678 550 Madagascar South_Africa Congo Egypt
+Congo 590 565 South_Africa East_Africa Egypt North_Africa
+North_Africa 520 465 Western_Europe Southern_Europe Egypt Congo
+Egypt 620 460 Middle_East Southern_Europe North_Africa Congo East_Africa
+
+Ukraine 630 260 Ural Afghanistan Middle_East Southern_Europe Northern_Europe Scandinavia
+Scandinavia 575 150 Ukraine Northern_Europe Great_Britain
+Northern_Europe 560 260 Ukraine Scandinavia Great_Britain Western_Europe Southern_Europe
+Southern_Europe 575 340 Egypt North_Africa Western_Europe Northern_Europe Ukraine
+Western_Europe 520 290 North_Africa Southern_Europe Northern_Europe Great_Britain
+Great_Britain 505 210 Western_Europe Northern_Europe Scandinavia Iceland
+Iceland 450 130 Greenland Great_Britain
+
+Argentina 310 695 Brazil Venezuela
+Brazil 355 620 North_Africa Argentina Venezuela
+Venezuela 270 520 Central_America Argentina Brazil
+
+Central_America 120 440 Western_United_States Eastern_United_States Venezuela
+Western_United_States 100 350 Alberta Ontario Eastern_United_States Central_America
+Eastern_United_States 190 370 Western_United_States Ontario Quebec
+Quebec 220 270 Greenland Ontario Eastern_United_States
+Ontario 165 265 Northwestern_Territory Alberta Western_United_States Eastern_United_States Quebec Greenland
+Alberta 100 245 Alaska Northwestern_Territory Ontario Western_United_States
+Greenland 310 150 Iceland Quebec Ontario Northwestern_Territory
+Northwestern_Territory 110 140 Alaska Alberta Ontario Greenland
+Alaska 40 70 Kamchatka Northwestern_Territory Alberta
